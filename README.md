@@ -6,7 +6,7 @@ Web Developer
 
 I am a web development enthusiast, with MERN (MongoDB, Node.js, Express.js, React) being my tech stack. I am passionate about solving real-world problems using the tech skills I possess.
 
-* 🌍  I'm based in Navi Mumbai, India
+* 🌍  I'm based in San Jose, California
 * 🖥️  See my portfolio at [My Personal Website](http://sahil-mhatre14.github.io/Personal-Website/)
 * ✉️  You can contact me at [sahil81623@gmail.com](mailto:sahil81623@gmail.com)
 * 🧠  I'm learning Next JS
